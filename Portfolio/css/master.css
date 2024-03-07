@@ -1,0 +1,52 @@
+.hero{
+    display: block;
+    margin: 5% auto ;
+    border-radius: 4%;
+}
+body {
+    background-image: linear-gradient(to right, rgb(73, 168, 223), #fdf7ff, #51a4c2);
+}
+
+#title{
+    color:navy;
+}
+
+.h4,.display-4{
+    color: navy;
+    text-align: center;
+}
+
+.btn{
+    margin:3px;
+    text-align: center;
+
+}
+
+.skillcontainer{
+    text-align: center;
+}
+
+.btn-info{
+    background-color:#3c8099;
+}
+
+#border{
+    width: 7%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-top-color: #31b9d1;
+    border-top-style: dotted;
+    border-top-width: 0.5rem;
+    border-bottom-color: red;
+}
+
+#btn:hover {
+    cursor:default; 
+}
+
+.font-weight-normal:hover{
+    color:yellowgreen;
+    text-decoration: none;
+    font-weight: bold;
+}
+
